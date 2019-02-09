@@ -1,8 +1,8 @@
 //Initital js file for git initialization
-<<<<<<< .merge_file_a01464
+<<<<<<< HEAD
 
 //git client edit
 
 =======
 //first edit
->>>>>>> .merge_file_a12304
+>>>>>>> testbranch
